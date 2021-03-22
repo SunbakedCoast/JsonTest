@@ -8,12 +8,14 @@
  "password": "123",
  "branch": "Krusty Krab"}, 
  
- {"userId": "1234567890", 
+ {
+  "userId": "1234567890", 
  "firstName": "Juan",
  "middleName": "Dela",
  "LastName": "Cruz",
  "username": "xXJuanXx",
  "password": "123",
- "branch": "Krusty Krab"}, 
-]
+ "branch": "Krusty Krab"
+ 
+ }]
 }
