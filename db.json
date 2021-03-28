@@ -3,8 +3,8 @@
 {"userId": "1234567890", 
  "firstName": "Juan",
  "middleName": "Dela",
- "LastName": "Cruz",
- "username": "xXJuanXx",
+ "lastName": "Cruz",
+ "userName": "xXJuanXx",
  "password": "123",
  "branch": "Krusty Krab"}, 
  
@@ -12,8 +12,8 @@
   "userId": "1234567890", 
  "firstName": "Juan",
  "middleName": "Dela",
- "LastName": "Cruz",
- "username": "xXJuanXx",
+ "lastName": "Cruz",
+ "userName": "xXJuanXx",
  "password": "123",
  "branch": "Krusty Krab"
  
