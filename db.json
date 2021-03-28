@@ -17,5 +17,22 @@
  "password": "123",
  "branch": "Krusty Krab"
  
- }]
+ }],
+ 
+ "branches" : [
+  {
+  "branchCode": "123",
+  "branchName": "SSS",
+  "fpAccountNumber": "888",
+  "landBankAccount": "888888",
+  "status": "Active"
+  },
+  {
+  "branchCode": "123",
+  "branchName": "SSS",
+  "fpAccountNumber": "888",
+  "landBankAccount": "888888",
+  "status": "Active"
+  }
+ ]
 }
