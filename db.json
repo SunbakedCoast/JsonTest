@@ -35,4 +35,21 @@
   "status": "Active"
   }
  ]
+ 
+ "reports": [
+ {
+ "branch": "123",
+ "fpAccount": "456",
+ "lbpAccount": "789",
+ "totalAmount": "5000",
+ "status": "active"
+ },
+  {
+ "branch": "123",
+ "fpAccount": "456",
+ "lbpAccount": "789",
+ "totalAmount": "5000",
+ "status": "active"
+ }
+]
 }
